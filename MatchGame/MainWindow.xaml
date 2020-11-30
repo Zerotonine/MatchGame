@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MatchGame"
         mc:Ignorable="d"
-        Title="Find all of the matching animals" Height="450" Width="400" ResizeMode="CanMinimize">
+        Title="Find all of the matching Emojis" Height="450" Width="400" ResizeMode="CanMinimize">
     <Grid x:Name="mainGrind">
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
